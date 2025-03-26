@@ -1,3 +1,5 @@
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRtbm9xNGZ4cWlza3d3ZXhwdHh1OWdiMzQ1cW1rMHR6bmI5ZnRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="" >
+
 # 💫 About Me:
 Aman Saxena<br>Backend Developer | Python (Django) | APIs & Databases<br>I'm Building scalable backends using Django, Django REST, PostgreSQL, MySQL.<br>I am familiar with Redis, Kafka, HTMX, NGINX, Gunicorn & contemporary web stacks.<br>I'm proficient in Python, JavaScript, SQL, HTML/CSS—quick problem-solver & learner.<br>Currently I'm Working on impactful personal projects to sharpen my skills.
 
